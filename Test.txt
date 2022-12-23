@@ -1,1 +1,8 @@
-SHubham Gavali
+public class Test{
+
+public static void mail(String [] args){
+System.out.println("Hello everyone, How are you all?");
+
+}
+
+}
